@@ -1,0 +1,37 @@
+<svg width="330" height="50" viewBox="0 0 330 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&amp;display=swap');
+      .chip { font-family: 'Rajdhani', sans-serif; font-weight: 600; letter-spacing: 1.3px; }
+    </style>
+
+    <linearGradient id="rbBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F1D1D"/>
+      <stop offset="50%" stop-color="#DC2626"/>
+      <stop offset="100%" stop-color="#F97316"/>
+      <animate attributeName="x1" values="-30%;130%;-30%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="70%;230%;70%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="rbGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="327" height="47" rx="23.5" fill="#0F0A0A" stroke="url(#rbBorder)" stroke-width="1.4"/>
+
+  <!-- send / lightning icon -->
+  <g transform="translate(26,25)" filter="url(#rbGlow)">
+    <path d="M -3 -8 L 4 -1 L -1 -1 L 3 8 L -6 0 L -1 0 Z" fill="#F97316">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="46" y="30" class="chip" font-size="14" fill="#F8FAFC">
+    REPLIES WITHIN 24 HOURS
+  </text>
+</svg>
