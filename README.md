@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Cyber Rain Intro -->
-<img src="./cyber-rain-bg.svg" width="100%" alt=""/>
-
 <!-- Futuristic Header Banner -->
 <img src="./hero-banner2.svg" width="100%" alt="Rafay Amir — Frontend Engineer"/>
 
