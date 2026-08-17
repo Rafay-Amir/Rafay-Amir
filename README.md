@@ -103,15 +103,14 @@ A multi-page React.js performance and issue management system developed for a ph
 
 > *Note: This was developed for a professional pharmaceutical company. Due to confidentiality, the source code, company data, and internal system details are not publicly available.*
 
-<!-- <img src="https://img.shields.io/badge/React-0F0A0A?style=flat-square&logo=react&logoColor=F97316"/> <img src="https://img.shields.io/badge/Firebase-0F0A0A?style=flat-square&logo=firebase&logoColor=F97316"/> -->
 <img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase%20Firestore-0F0A0A?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 Interactive Creative Landing Page
+### 🎬 Interactive Creative Web Experience
 
-A creative landing page recreation built to practice advanced frontend development, animation techniques, and interactive web experiences using React.js, Tailwind CSS, and GSAP.
+A creative web experience built to practice advanced frontend development, animation techniques, and interactive web experiences using React.js, Tailwind CSS, and GSAP.
 - 🎞️ **GSAP Animations** — Built smooth, timeline-based animations and scroll-driven interactions.
 - ⚛️ **React.js** — Practiced component-based development and reusable UI structures.
 - 🎨 **Tailwind CSS** — Created responsive layouts and modern visual styling.
@@ -121,15 +120,13 @@ A creative landing page recreation built to practice advanced frontend developme
 
 > **Note:** This project is a learning/practice recreation inspired by the visual and interactive style of [K72](https://k72.ca/). It is not affiliated with or an official version of the original website.
 
-<!-- <img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=F97316"/> <img src="https://img.shields.io/badge/CSS3-0F0A0A?style=flat-square&logo=css3&logoColor=F97316"/> -->
 <img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=88CE02"/>
 
 </td>
 <td width="33%" valign="top">
 
-## 🤖 EcomPrice Genius
-### AI-Powered Pricing Application
+### 🤖 EcomPrice Genius&nbsp;AI-Powered Pricing Application
 
 An intelligent machine learning-based pricing recommendation system designed to help e-commerce sellers make data-driven pricing decisions and identify competitive, profit-focused price points.
 - 💡 Price Recommendation Engine — Predicts optimal product prices using machine learning models.
@@ -140,8 +137,9 @@ An intelligent machine learning-based pricing recommendation system designed to 
 - 💰 Business-Focused Insights — Focused on competitive pricing and identifying opportunities for profit optimization and revenue growth.
 - 📈 Scalable Approach — Structured the application around data processing, predictive modeling, and user-driven pricing recommendations.
 
-<!-- <img src="https://img.shields.io/badge/JavaScript-0F0A0A?style=flat-square&logo=javascript&logoColor=F97316"/> <img src="https://img.shields.io/badge/API-0F0A0A?style=flat-square&logo=fastapi&logoColor=F97316"/> -->
-<img src="https://img.shields.io/badge/Python-0F0A0A?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pandas-0F0A0A?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/NumPy-0F0A0A?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Scikit--learn-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Jupyter-0F0A0A?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/JavaScript-0F0A0A?style=flat-square&logo=javascript&logoColor=F97316"/> <img src="https://img.shields.io/badge/API-0F0A0A?style=flat-square&logo=fastapi&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Python-0F0A0A?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pandas-0F0A0A?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/NumPy-0F0A0A?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Scikit--learn-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Jupyter-0F0A0A?style=flat-square&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/Machine%20Learning-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 
 </td>
 </tr>
