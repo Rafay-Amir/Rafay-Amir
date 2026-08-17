@@ -90,44 +90,58 @@ Expanding my horizon towards **Full-Stack Development** while continuously refin
 <tr>
 <td width="33%" valign="top">
 
-### 🔥 Pharma Performance&nbsp;Dashboard
-**Live:** [Demo Link](#) | **Repo:** [GitHub Link](#)
+### 🔥 Pharma Performance&nbsp;Issue Management Dashboard
 
-Employee performance tracking system built for a pharmaceutical company.
-- 📊 Multi-page dashboard with key performance metrics
-- 🔄 Real-time updates using Firebase Firestore
-- 📈 Data visualization similar to Power BI
+A multi-page React.js performance and issue management system developed for a pharmaceutical company, with Firebase Firestore as the database.
+- 📊 Built a multi-page analytics dashboard to monitor employee performance and operational activity.
+- 🛠️ Implemented an issue reporting workflow where Generator employees could report company issues by submitting details and images.
+- ✅ Supported a Resolver workflow for tracking and resolving reported issues.
+- 📈 Added analytics using KPI cards, bar charts, line charts, and performance metrics to analyze Generator and Resolver activity.
+- 📅 Enabled performance analysis across daily, monthly, and yearly periods to identify activity and performance trends.
+- 🔄 Used Firebase Firestore for storing and managing system data and supporting real-time data updates.
+- ⚛️ Developed the frontend using React.js with a focus on structured, multi-page dashboard experiences.
 
-> *Note: Professional project under NDA. Architecture and approach documented here.*
+> *Note: This was developed for a professional pharmaceutical company. Due to confidentiality, the source code, company data, and internal system details are not publicly available.*
 
-<img src="https://img.shields.io/badge/React-0F0A0A?style=flat-square&logo=react&logoColor=F97316"/> <img src="https://img.shields.io/badge/Firebase-0F0A0A?style=flat-square&logo=firebase&logoColor=F97316"/>
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Premium Landing&nbsp;Page
-**Live:** [Demo Link](#) | **Repo:** [GitHub Link](#)
-
-Modern landing page with smooth animations and parallax effects.
-- ✨ GSAP animations and scroll triggers
-- 📱 Fully responsive design
-- 🎯 Premium UI/UX patterns
-
-<img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=F97316"/> <img src="https://img.shields.io/badge/CSS3-0F0A0A?style=flat-square&logo=css3&logoColor=F97316"/>
+<!-- <img src="https://img.shields.io/badge/React-0F0A0A?style=flat-square&logo=react&logoColor=F97316"/> <img src="https://img.shields.io/badge/Firebase-0F0A0A?style=flat-square&logo=firebase&logoColor=F97316"/> -->
+<img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase%20Firestore-0F0A0A?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 
 </td>
 <td width="33%" valign="top">
 
-### 🌤️ Weather App
-**Live:** [Demo Link](#) | **Repo:** [GitHub Link](#)
+### 🎬 Interactive Creative Landing Page
 
-Real-time weather application showcasing JavaScript skills.
-- 🌐 REST API integration (OpenWeatherMap)
-- 🔄 Async/Await for API calls
-- 📍 Geolocation feature
-- 🎨 Dynamic theming based on weather
+A creative landing page recreation built to practice advanced frontend development, animation techniques, and interactive web experiences using React.js, Tailwind CSS, and GSAP.
+- 🎞️ **GSAP Animations** — Built smooth, timeline-based animations and scroll-driven interactions.
+- ⚛️ **React.js** — Practiced component-based development and reusable UI structures.
+- 🎨 **Tailwind CSS** — Created responsive layouts and modern visual styling.
+- 🖱️ **Interactive Experience** — Focused on transitions, motion, and visual storytelling.
+- 📱 **Responsive Design** — Adapted the experience across different screen sizes.
+- 🧠 **Learning-Focused Build** — Developed as a hands-on recreation exercise to strengthen React.js and animation skills.
 
-<img src="https://img.shields.io/badge/JavaScript-0F0A0A?style=flat-square&logo=javascript&logoColor=F97316"/> <img src="https://img.shields.io/badge/API-0F0A0A?style=flat-square&logo=fastapi&logoColor=F97316"/>
+> **Note:** This project is a learning/practice recreation inspired by the visual and interactive style of [K72](https://k72.ca/). It is not affiliated with or an official version of the original website.
+
+<!-- <img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=F97316"/> <img src="https://img.shields.io/badge/CSS3-0F0A0A?style=flat-square&logo=css3&logoColor=F97316"/> -->
+<img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=88CE02"/>
+
+</td>
+<td width="33%" valign="top">
+
+## 🤖 EcomPrice Genius
+### AI-Powered Pricing Application
+
+An intelligent machine learning-based pricing recommendation system designed to help e-commerce sellers make data-driven pricing decisions and identify competitive, profit-focused price points.
+- 💡 Price Recommendation Engine — Predicts optimal product prices using machine learning models.
+- 📊 Data Analysis & EDA — Cleaned, preprocessed, and analyzed structured datasets with Pandas and NumPy to identify pricing trends and patterns.
+- 🧠 Machine Learning Models — Built predictive models using Linear Regression and Random Forest with Scikit-learn.
+- ⚙️ Feature Engineering & Model Optimization — Engineered relevant features and refined the data pipeline to improve prediction quality.
+- 🔎 Product-Based Analysis — Designed product input through name, link, or image, with analysis triggered by user searches.
+- 💰 Business-Focused Insights — Focused on competitive pricing and identifying opportunities for profit optimization and revenue growth.
+- 📈 Scalable Approach — Structured the application around data processing, predictive modeling, and user-driven pricing recommendations.
+
+<!-- <img src="https://img.shields.io/badge/JavaScript-0F0A0A?style=flat-square&logo=javascript&logoColor=F97316"/> <img src="https://img.shields.io/badge/API-0F0A0A?style=flat-square&logo=fastapi&logoColor=F97316"/> -->
+<img src="https://img.shields.io/badge/Python-0F0A0A?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pandas-0F0A0A?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/NumPy-0F0A0A?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Scikit--learn-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Jupyter-0F0A0A?style=flat-square&logo=jupyter&logoColor=F37626"/>
 
 </td>
 </tr>
@@ -192,12 +206,14 @@ Real-time weather application showcasing JavaScript skills.
 
 <div align="center">
 
-I am currently open to **Internships**, **Freelance Projects**, and **Full-time Frontend Roles**.
-If you are looking for a dedicated developer focused on modern web aesthetics and clean architecture:
+Open to Part-Time & Full-Time Frontend Development opportunities, both Remote and On-Site.
+build modern, responsive web experiences with a strong focus on clean architecture, performance and thoughtful UI.
 
+
+Let’s connect and build something impactful.
 <br/>
 
-<a href="https://www.linkedin.com/in/rafay-amir-241829321">
+<a href="https://www.linkedin.com/in/rafay-amir">
   <img src="https://img.shields.io/badge/LinkedIn-161010?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0F0A0A" />
 </a>
 <a href="mailto:rafayamir39@gmail.com">
