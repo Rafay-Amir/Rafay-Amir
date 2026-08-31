@@ -36,10 +36,6 @@ I'm **Rafay Amir**, a Frontend Developer based in **Pakistan**, specializing in 
 
 I focus on building clean, functional, and scalable user interfaces, with a strong emphasis on clean code architecture and performance optimization.
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ⚡ **Current Focus:**
 - Deep-diving into core **JavaScript** & **TypeScript**
 - Advanced **React** & **Next.js** App Router
@@ -47,8 +43,7 @@ I focus on building clean, functional, and scalable user interfaces, with a stro
 
 Expanding my horizon towards **Full-Stack Development** while continuously refining frontend aesthetics.
 
-</td>
-<td valign="center" width="45%" align="center">
+<div align="center">
 
 ```
    ⚛ REACT.JS ────╮
@@ -56,9 +51,7 @@ Expanding my horizon towards **Full-Stack Development** while continuously refin
    ~ TAILWIND ─────╯
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
