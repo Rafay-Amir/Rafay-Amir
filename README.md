@@ -86,10 +86,6 @@ Expanding my horizon towards **Full-Stack Development** while continuously refin
 
 ## 📌 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
 ### 🔥 Pharma Performance&nbsp;Issue Management Dashboard
 
 A multi-page React.js performance and issue management system developed for a pharmaceutical company, with Firebase Firestore as the database.
@@ -105,8 +101,11 @@ A multi-page React.js performance and issue management system developed for a ph
 
 <img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase%20Firestore-0F0A0A?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 
-</td>
-<td width="33%" valign="top">
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F0A0A,50:DC2626,100:F97316&height=4&section=header&animation=fadeIn" width="100%"/>
+
+<br/>
 
 ### 🎬 Interactive Creative Web Experience
 
@@ -123,8 +122,11 @@ A creative web experience built to practice advanced frontend development, anima
 <img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/GSAP-0F0A0A?style=flat-square&logo=greensock&logoColor=88CE02"/>
 
-</td>
-<td width="33%" valign="top">
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F0A0A,50:DC2626,100:F97316&height=4&section=header&animation=fadeIn" width="100%"/>
+
+<br/>
 
 ### 🤖 EcomPrice Genius&nbsp;AI-Powered Pricing Application
 
@@ -140,10 +142,6 @@ An intelligent machine learning-based pricing recommendation system designed to 
 <img src="https://img.shields.io/badge/JavaScript-0F0A0A?style=flat-square&logo=javascript&logoColor=F97316"/> <img src="https://img.shields.io/badge/API-0F0A0A?style=flat-square&logo=fastapi&logoColor=F97316"/>
 <img src="https://img.shields.io/badge/Python-0F0A0A?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pandas-0F0A0A?style=flat-square&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/NumPy-0F0A0A?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Scikit--learn-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Jupyter-0F0A0A?style=flat-square&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/Machine%20Learning-0F0A0A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/React.js-0F0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -208,7 +206,7 @@ Open to Part-Time & Full-Time Frontend Development opportunities, both Remote an
 build modern, responsive web experiences with a strong focus on clean architecture, performance and thoughtful UI.
 
 
-Let’s connect and build something impactful.
+Let's connect and build something impactful.
 <br/>
 
 <a href="https://www.linkedin.com/in/rafay-amir">
