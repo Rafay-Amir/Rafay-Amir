@@ -125,7 +125,7 @@ A creative web experience built to practice advanced frontend development, anima
 
 ### 🤖 EcomPrice Genius&nbsp;AI-Powered Pricing Application
 
-![Private](https://img.shields.io/badge/🔒_Private-Repository-Planned-for-Commercial-Launch-inactive?style=for-the-badge)
+## 🚧 Private Repository — Planned for Commercial Launch
 
 An intelligent machine learning-based pricing recommendation system designed to help e-commerce sellers make data-driven pricing decisions and identify competitive, profit-focused price points.
 - 💡 Price Recommendation Engine — Predicts optimal product prices using machine learning models.
