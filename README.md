@@ -102,6 +102,8 @@ A multi-page React.js performance and issue management system developed for a ph
 
 ### 🎬 Interactive Creative Web Experience
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge&logo=vercel)](https://creative-agency-website-smoky.vercel.app/)
+
 A creative web experience built to practice advanced frontend development, animation techniques, and interactive web experiences using React.js, Tailwind CSS, and GSAP.
 - 🎞️ **GSAP Animations** — Built smooth, timeline-based animations and scroll-driven interactions.
 - ⚛️ **React.js** — Practiced component-based development and reusable UI structures.
@@ -122,6 +124,8 @@ A creative web experience built to practice advanced frontend development, anima
 <br/>
 
 ### 🤖 EcomPrice Genius&nbsp;AI-Powered Pricing Application
+
+![Private](https://img.shields.io/badge/🔒_Private-Repository-Planned-for-Commercial-Launch-inactive?style=for-the-badge)
 
 An intelligent machine learning-based pricing recommendation system designed to help e-commerce sellers make data-driven pricing decisions and identify competitive, profit-focused price points.
 - 💡 Price Recommendation Engine — Predicts optimal product prices using machine learning models.
